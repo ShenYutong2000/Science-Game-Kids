@@ -1,0 +1,32 @@
+{
+  "style": "Original painted storybook: warm golden light, lavender clouds, layered sage woodland, cream paper UI.",
+  "background": "Generate a polished original children's storybook game background, wide landscape 16:9. Visual direction: painterly cut-paper gouache, visible fine chalk grain, layered scalloped hills, cream golden rim-light, lavender and peach clouds with gentle curled shapes, dusty blue sky fading to blush sunset, sage and deep teal foliage, whimsical round trees with purple trunks. Warm magical storybook mood. This is a CLEAN RIVER RESCUE GAME BACKGROUND: no characters, no objects used to cross, no balloon, no bridge, no boat, no text. Clear flat grassy landing spaces centered around x=20% and x=80%, both at y=78% of the canvas. River flows vertically from center horizon y=42% to full foreground, filling middle x=36%-64%. River glows turquoise and lavender with soft horizontal reflections. Trees frame outer edges only, plenty of open air above river for game action. Low distant rounded mountains and a tiny fairy village far away, warm sun high in sky. Beautiful publication-quality illustration with rich pastel color, clean playable foreground, no logos, no watermark.",
+  "characters": "Create an ORIGINAL game sprite atlas, exactly square canvas with exactly FOUR equal square cells arranged in 2 rows and 2 columns on fully transparent background, NO lines NO labels NO shadows on ground NO props outside characters. Hand painted 2D storybook cut-paper gouache with fine chalk texture, warm cream highlights, soft dark plum outlines, whimsical rounded simple shapes, lavender and peach color accents. Full body characters fit centered inside each cell with 12% empty padding, feet aligned 88% down each cell. TOP LEFT: adorable cream white baby rabbit with long pink ears, teal neck scarf, little lavender satchel, facing three-quarter right, friendly curious standing pose. TOP RIGHT: THE SAME identical rabbit outfit and proportions, thinking pose one paw to cheek, ears tilted, curious not sad. BOTTOM LEFT: THE SAME identical rabbit, cheering both paws raised and happy closed crescent eyes, full body with feet visible. BOTTOM RIGHT: small original golden ginger squirrel friend with a big curled tail and lavender neck scarf, full body facing three-quarter left, waving one paw cheerfully. Keep rabbit size identical in all three cells. Exact clean 2x2 grid centered on 25% and 75% coordinates, no overlapping across cells. High quality production-ready transparent sprite sheet for a children's science game.",
+  "generation": "Built-in image_gen; no runtime image-generation service.",
+  "story": {
+    "file": "intro.webm",
+    "durationSeconds": 10,
+    "resolution": "960x540",
+    "fps": 12,
+    "narration": "Browser speech synthesis, English voice when installed; not embedded in silent WebM.",
+    "captions": "captions-en.vtt"
+  },
+  "characterFrames": {
+    "curious": [
+      0,
+      0
+    ],
+    "thinking": [
+      1,
+      0
+    ],
+    "celebrate": [
+      0,
+      1
+    ],
+    "friend": [
+      1,
+      1
+    ]
+  }
+}
